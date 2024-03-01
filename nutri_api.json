@@ -1,0 +1,445 @@
+{
+
+    "data": [
+
+  {
+
+    "resource": "product",
+
+    "id": 1,
+
+    "brand_id": 1,
+
+    "food_name": "almomd",
+
+    "productname": "Tata Sampann Almond",
+
+    "BrandOwner": "Tata",
+
+    "image_path": "https://rukminim2.flixcart.com/image/850/1000/xif0q/nut-dry-fruit/l/b/7/-original-imagzmdezqbhjxwn.jpeg?q=20&crop=false",
+
+    "nf_calories": 7.71,
+    "nf_total_fat": 0.68,
+    "nf_saturated_fat": 0.05,
+    "nf_cholesterol": 0,
+    "nf_sodium": 6.42,
+    "nf_total_carbohydrate": 0.27,
+    "nf_dietary_fiber": 0.14,
+    "nf_sugars": 0.06,
+    "nf_protein": 0.27,
+    "nf_potassium": 9.2,
+
+    "desc":"Almonds, the nutritious seeds of the Prunus dulcis tree, boast a rich profile of healthy fats, protein, fiber, and essential nutrients. Renowned for their versatility, almonds can be enjoyed raw, toasted, or as derivatives like almond milk and flour. Their consumption is linked to various health benefits, including heart health, weight management, and antioxidant support. Culturally significant, almonds symbolize prosperity and are commonly used in culinary traditions worldwide. The United States, particularly California, is a major producer of almonds. However, individuals with nut allergies should exercise caution. Overall, almonds are a delicious and nutritious addition to any diet, offering both flavor and wellness."
+
+    
+
+  },
+  {
+
+    "resource": "product",
+
+    "id": 2,
+
+    "brand_id": 1,
+
+    "food_name": "cashews",
+
+    "productname": "Tata Sampann Cashews",
+
+    "BrandOwner": "Tata",
+
+    "image_path": "https://images-eu.ssl-images-amazon.com/images/I/61pjIbiloqL._AC_UL900_SR615,900_.jpg",
+
+    "nf_calories": 9.01,
+    "nf_total_fat": 0.73,
+    "nf_saturated_fat": 0.14,
+    "nf_cholesterol": 0,
+    "nf_sodium": 10.05,
+    "nf_total_carbohydrate": 0.51,
+    "nf_dietary_fiber": 0.05,
+    "nf_sugars": 0.08,
+    "nf_protein": 0.24,
+    "nf_potassium": 8.87,
+
+    "desc":"Cashews, the kidney-shaped seeds of the Anacardium occidentale tree, are renowned for their rich, creamy texture and mild, buttery flavor. Packed with essential nutrients like healthy fats, protein, vitamins, and minerals, cashews offer numerous health benefits, including heart health and improved digestion. They're versatile in culinary applications, enjoyed raw, roasted, or in dishes like stir-fries, curries, and desserts. Cultivated mainly in tropical regions like India, Vietnam, and Nigeria, cashews play a vital role in local economies. However, individuals with nut allergies should be cautious. Overall, cashews are a delicious and nutritious addition to various cuisines, offering both flavor and wellness."
+
+  },
+  {
+
+    "resource": "product",
+
+    "id": 3,
+
+    "brand_id": 1,
+
+    "food_name": "Walnuts",
+
+    "productname": "Tata Sampann Walnuts",
+
+    "BrandOwner": "Tata",
+
+    "image_path": "https://m.media-amazon.com/images/I/61OCw2UT2EL._AC_UF894,1000_QL80_.jpg",
+
+    "nf_calories": 13.28,
+    "nf_total_fat": 1.32,
+    "nf_saturated_fat": 0.12,
+    "nf_cholesterol": 0,
+    "nf_sodium": 0.04,
+    "nf_total_carbohydrate": 0.28,
+    "nf_dietary_fiber": 0.14,
+    "nf_sugars": 0.05,
+    "nf_protein": 0.31,
+    "nf_potassium": 8.95,
+    "desc":"Walnuts, the nutrient-rich seeds of the Juglans regia tree, are characterized by their distinct wrinkled, shell-encased kernels. Packed with heart-healthy omega-3 fatty acids, protein, fiber, vitamins, and minerals, walnuts offer numerous health benefits, including improved brain function and heart health. Their versatile nature allows for various culinary uses, whether raw, toasted, or incorporated into salads, baked goods, or as a crunchy topping for yogurt and oatmeal. Cultivated in temperate regions globally, with major producers including the United States, China, and Iran, walnuts hold cultural significance and are revered for their flavor and nutritional value, making them a staple in many diets worldwide."
+  },
+  {
+
+    "resource": "product",
+
+    "id": 4,
+
+    "brand_id": 2,
+
+    "food_name": "Cheese",
+
+    "productname": "Amul Cheese",
+
+    "BrandOwner": "Amul",
+
+    "image_path": "https://www.jiomart.com/images/product/original/490010199/amul-cheese-block-1-kg-carton-product-images-o490010199-p490010199-0-202211031818.jpg?im=Resize=(420,420)",
+
+    "nf_calories": 113.12,
+    "nf_total_fat": 9.33,
+    "nf_saturated_fat": 5.28,
+    "nf_cholesterol": 27.72,
+    "nf_sodium": 182.84,
+    "nf_total_carbohydrate": 0.87,
+    "nf_dietary_fiber": 0,
+    "nf_sugars": 0.13,
+    "nf_protein": 6.4,
+    "nf_potassium": 21.28,
+    "desc":"Cheese, a dairy product made from the curdled milk of cows, goats, sheep, or other mammals, undergoes a complex process of fermentation and aging. It comes in numerous varieties, each with its own texture, flavor, and aroma, influenced by factors like the type of milk, production methods, and aging process. Cheese is a versatile ingredient used in cooking, enjoyed on its own, or as a topping or filling in various dishes, including sandwiches, salads, pasta, and appetizers. It's rich in protein, calcium, and other nutrients, although some varieties may be high in saturated fats and sodium. With a rich history spanning centuries, cheese is a beloved culinary staple enjoyed worldwide, with famous varieties including cheddar, mozzarella, brie, and gouda."
+
+  },
+  {
+
+    "resource": "product",
+
+    "id": 5,
+
+    "brand_id": 2,
+
+    "food_name": "Milk",
+
+    "productname": "Amul Milk",
+
+    "BrandOwner": "Amul",
+
+    "image_path": "https://m.media-amazon.com/images/I/812816L+HkL.jpg",
+
+    "nf_calories": 122,
+    "nf_total_fat": 4.83,
+    "nf_saturated_fat": 3.07,
+    "nf_cholesterol": 19.52,
+    "nf_sodium": 114.68,
+    "nf_total_carbohydrate": 11.71,
+    "nf_dietary_fiber": 0,
+    "nf_sugars": 12.35,
+    "nf_protein": 8.05,
+    "nf_potassium": 341.6,
+    "desc":"Milk, a nutrient-rich liquid produced by mammals to nourish their offspring, is a staple food consumed by humans worldwide. It contains a balanced combination of essential nutrients, including proteins, carbohydrates, fats, vitamins (such as A, D, B12), and minerals (such as calcium and potassium). Milk is primarily derived from cows, but it can also come from goats, sheep, buffalo, and other mammals.Milk plays a crucial role in promoting bone health, muscle growth, and overall well-being, making it a valuable dietary component for people of all ages. However, individuals with lactose intolerance or dairy allergies may opt for lactose-free or plant-based alternatives."
+
+  },
+  {
+
+    "resource": "product",
+
+    "id": 6,
+
+    "brand_id": 2,
+
+    "food_name": "Butter",
+
+    "productname": "Amul Butter",
+
+    "BrandOwner": "Amul",
+
+    "image_path": "https://m.media-amazon.com/images/I/51KrxEKN58L.jpg",
+
+    "nf_calories": 101.81,
+    "nf_total_fat": 11.52,
+    "nf_saturated_fat": 7.29,
+    "nf_cholesterol": 30.53,
+    "nf_sodium": 91.31,
+    "nf_total_carbohydrate": 0.01,
+    "nf_dietary_fiber": 0,
+    "nf_sugars": 0.01,
+    "nf_protein": 0.12,
+    "nf_potassium": 3.41,
+    "desc":"Butter is a dairy product made by churning cream or milk to separate the butterfat from the buttermilk. It has a rich flavor and creamy texture, making it a versatile ingredient in cooking, baking, and spreading. Butter contains high levels of saturated fats, along with vitamins A, D, E, and K2. It's used to add richness and flavor to dishes, such as sautéing vegetables, frying eggs, baking pastries, and spreading on bread. While butter is a staple in many culinary traditions, alternatives like margarine or plant-based spreads cater to dietary preferences and health considerations. Butter is a beloved ingredient in cuisines worldwide, prized for its taste and culinary versatility."
+
+  },
+  {
+
+    "resource": "product",
+
+    "id": 7,
+
+    "brand_id": 3,
+
+    "food_name": "Biscuits",
+
+    "productname": "Britannia Biscuits",
+
+    "BrandOwner": "Britannia",
+
+    "image_path": "https://m.media-amazon.com/images/I/61K6hxEn8HL.jpg",
+
+    "nf_calories": 211.8,
+    "nf_total_fat": 9.78,
+    "nf_saturated_fat": 2.59,
+    "nf_cholesterol": 1.8,
+    "nf_sodium": 348,
+    "nf_total_carbohydrate": 26.76,
+    "nf_dietary_fiber": 0.9,
+    "nf_sugars": 1.31,
+    "nf_protein": 4.2,
+    "nf_potassium": 72.6,
+    "desc":"Biscuits, also known as cookies in some regions, are baked goods characterized by their sweet or savory flavor, crispy texture, and often crumbly consistency. They come in a wide variety of shapes, sizes, and flavors, ranging from simple butter or sugar cookies to more elaborate creations with chocolate chips, nuts, fruits, or spices. Biscuits are typically made from ingredients such as flour, sugar, butter or oil, eggs, and leavening agents like baking powder or baking soda. They are popular as snacks, desserts, or accompaniments to tea or coffee. Biscuits have a long history and are enjoyed in various forms across cultures worldwide, with each region having its own unique recipes and traditions."
+
+
+  },
+  {
+
+    "resource": "product",
+
+    "id": 8,
+
+    "brand_id": 3,
+
+    "food_name": "Cake",
+    "productname": "Britannia cake",
+
+    "BrandOwner": "Britannia",
+
+    "image_path": "https://m.media-amazon.com/images/I/61jgaxBM6CL.jpg",
+
+    "nf_calories": 261.97,
+    "nf_total_fat": 12,
+    "nf_saturated_fat": 1.97,
+    "nf_cholesterol": 50.25,
+    "nf_sodium": 180.23,
+    "nf_total_carbohydrate": 37.65,
+    "nf_dietary_fiber": 0.2,
+    "nf_sugars": 28,
+    "nf_protein": 2,
+    "nf_potassium": 35.51,
+    "desc":"Cake is a sweet, baked dessert that comes in various forms, flavors, and textures, ranging from light and fluffy to rich and decadent. It's typically made from a mixture of flour, sugar, eggs, and butter or oil, along with flavorings such as vanilla, chocolate, fruit, or spices. Leavening agents like baking powder or baking soda are used to make the cake rise and become light and airy. Cakes can be baked in different shapes and sizes, including layers, sheets, rounds, or bundts, and they are often decorated with frosting, icing, glazes, or toppings like fruit, nuts, or sprinkles. Cakes are enjoyed on special occasions, celebrations, or simply as a delightful treat to indulge in. They are an integral part of many cultural traditions and festivities around the world."
+
+  },
+  {
+
+    "resource": "product",
+
+    "id": 9,
+
+    "brand_id": 3,
+
+    "food_name": "Bread",
+
+    "productname": "Britannia Bread",
+
+    "BrandOwner": "Britannia",
+
+    "image_path": "https://s3.ap-south-1.amazonaws.com/diingdong/met000827.jpg",
+
+    "nf_calories": 77.14,
+    "nf_total_fat": 0.97,
+    "nf_saturated_fat": 0.2,
+    "nf_cholesterol": 0,
+    "nf_sodium": 142.1,
+    "nf_total_carbohydrate": 14.33,
+    "nf_dietary_fiber": 0.78,
+    "nf_sugars": 1.64,
+    "nf_protein": 2.57,
+    "nf_potassium": 36.54,
+    "desc":"Bread is a staple food made from dough, typically consisting of flour, water, yeast, and salt. It's one of the oldest prepared foods, with a rich history dating back thousands of years. The dough is kneaded and allowed to rise, often multiple times, before being baked, resulting in a wide variety of bread types, shapes, and textures. Bread can be leavened or unleavened, with leavened breads rising due to the action of yeast or other leavening agents, while unleavened breads do not rise. Common types of bread include baguettes, loaves, rolls, flatbreads, and specialty breads like sourdough, rye, or whole wheat. Bread is a versatile food, enjoyed as a standalone snack, sandwich, or accompaniment to meals, and it plays a significant role in cuisines worldwide."
+
+  },
+  {
+   
+    "resource": "product",
+
+    "id": 10,
+
+    "brand_id": 4,
+
+    "food_name": "Egg",
+
+    "productname": "Egg",
+
+    "BrandOwner": "Egg",
+
+    "image_path": "https://c.ndtvimg.com/gws/5674/assets/4.jpeg?1651561595",
+
+    "nf_calories": 71.5,
+    "nf_total_fat": 4.76,
+    "nf_saturated_fat": 1.56,
+    "nf_cholesterol": 186,
+    "nf_sodium": 71,
+    "nf_total_carbohydrate": 0.36,
+    "nf_dietary_fiber": 0,
+    "nf_sugars": 0.19,
+    "nf_protein": 6.28,
+    "nf_potassium": 69,
+    "desc":"Eggs are a staple food item known for their versatility and nutritional value. They are laid by various species of birds, with chicken eggs being the most commonly consumed type. Eggs are rich in high-quality protein, vitamins (such as vitamin A, D, and B vitamins), minerals (such as iron and selenium), and healthy fats. They can be prepared in numerous ways, including boiled, scrambled, fried, poached, or baked. Eggs are used as ingredients in many dishes, such as omelettes, quiches, frittatas, cakes, and custards. They are an essential ingredient in baking, providing structure, moisture, and richness to various recipes. Overall, eggs are a versatile and nutritious food enjoyed worldwide."
+  },
+  {
+    
+    "resource": "product",
+
+    "id": 11,
+
+    "brand_id": 5,
+
+    "food_name": "Raisins",
+
+    "productname": "Nutraj Raisins",
+
+    "BrandOwner": "Nutraj",
+
+    "image_path": "https://www.jiomart.com/images/product/original/490106765/nutraj-special-raisins-kishmish-250-g-product-images-o490106765-p590032468-0-202207121750.jpg?im=Resize=(1000,1000)",
+
+    "nf_calories": 128.57,
+    "nf_total_fat": 0.2,
+    "nf_saturated_fat": 0.02,
+    "nf_cholesterol": 0,
+    "nf_sodium": 4.73,
+    "nf_total_carbohydrate": 34.05,
+    "nf_dietary_fiber": 1.59,
+    "nf_sugars": 25.45,
+    "nf_protein": 1.32,
+    "nf_potassium": 322.07,
+    "desc":"Raisins are dried grapes, typically made from small, sweet varieties of grapes such as Thompson seedless. They are naturally sweet and chewy with a wrinkled texture. Raisins are a popular snack and ingredient in cooking and baking due to their concentrated sweetness and versatility. They can be eaten on their own as a healthy snack or added to cereal, oatmeal, salads, trail mixes, baked goods, and savory dishes like rice pilaf or tagines for added flavor and texture. Raisins are also a good source of fiber, potassium, iron, and antioxidants, making them a nutritious addition to your diet."
+  },
+  {
+    "resource": "product",
+
+    "id": 12,
+
+    "brand_id": 5,
+
+    "food_name": "Dates",
+
+    "productname": "Nutraj Dates",
+
+    "BrandOwner": "Nutraj",
+
+    "image_path": "https://www.jiomart.com/images/product/original/492059060/nutraj-premium-arabian-dates-500-g-product-images-o492059060-p590146092-0-202203170506.jpg?im=Resize=(1000,1000)",
+
+    "nf_calories": 20.02,
+    "nf_total_fat": 0.03,
+    "nf_saturated_fat": 0,
+    "nf_cholesterol": 0,
+    "nf_sodium": 0.14,
+    "nf_total_carbohydrate": 5.33,
+    "nf_dietary_fiber": 0.57,
+    "nf_sugars": 4.5,
+    "nf_protein": 0.17,
+    "nf_potassium": 46.58,
+
+    "desc":"RDates are the fruit of the date palm tree, known scientifically as Phoenix dactylifera. These sweet and chewy fruits are grown in tropical regions around the world and have been cultivated for thousands of years. Dates are oval-shaped with a wrinkled skin and a single, elongated seed inside.Dates are highly nutritious, providing a good source of energy, fiber, vitamins (such as B vitamins and vitamin K), minerals (such as potassium, magnesium, and iron), and antioxidants. They are also naturally low in fat and cholesterol."
+  },
+  {
+    "resource": "product",
+
+    "id": 13,
+
+    "brand_id": 5,
+
+    "food_name": "Pistachios",
+
+    "productname": "Nutraj Pistachios",
+
+    "BrandOwner": "Nutraj",
+
+    "image_path": "https://apnafoodmarket.com/wp-content/uploads/2020/06/nutraj-pista.jpg",
+
+    "nf_calories": 3.98,
+    "nf_total_fat": 0.32,
+    "nf_saturated_fat": 0.04,
+    "nf_cholesterol": 0,
+    "nf_sodium": 3,
+    "nf_total_carbohydrate": 0.19,
+    "nf_dietary_fiber": 0.07,
+    "nf_sugars": 0.05,
+    "nf_protein": 0.15,
+    "nf_potassium": 7.05,
+
+    "desc":"Pistachios are small, green nuts with a slightly sweet and nutty flavor. They are the seeds of the Pistacia vera tree, native to the Middle East and Central Asia but now cultivated in regions with a Mediterranean climate.Pistachios are not only delicious but also highly nutritious. They are an excellent source of protein, healthy fats, fiber, vitamins (such as vitamin B6 and vitamin E), and minerals (such as copper, manganese, and phosphorus)."
+
+  },
+  {
+
+    "resource": "product",
+
+    "id": 14,
+
+    "brand_id": 6,
+
+    "food_name": "Chicken",
+
+    "productname": "Chicken",
+
+    "BrandOwner": "Chicken",
+
+    "image_path":"https://5.imimg.com/data5/IQ/LR/MY-7067025/raw-whole-chicken-500x500.jpg",
+
+    "nf_calories": 187,
+    "nf_total_fat": 11.11,
+    "nf_saturated_fat": 3.11,
+    "nf_cholesterol": 79.9,
+    "nf_sodium": 60.35,
+    "nf_total_carbohydrate": 0.04,
+    "nf_dietary_fiber": 0,
+    "nf_sugars": 0,
+    "nf_protein": 20.37,
+    "nf_potassium": 173.4,
+
+    "desc":"Chicken is a rich source of high-quality protein, essential vitamins (such as B vitamins including niacin and B12), and minerals (such as phosphorus, selenium, and zinc). It is relatively low in fat, especially if you remove the skin, making it a lean protein choice.Chicken is also a versatile ingredient in various cuisines around the world, from American Southern cuisine to Italian, Chinese, Indian, and Mexican cuisine, among others."
+
+  },
+  {
+    
+    "resource": "product",
+
+    "id": 15,
+
+    "brand_id": 7,
+
+    "food_name": "Mutton",
+
+    "productname": "Mutton",
+
+    "BrandOwner": "Mutton",
+
+    "image_path":"https://fooppers.in/wp-content/uploads/2021/02/Mutton-Boneless-Curry-Cut-1.jpg",
+
+    "nf_calories": 249.9,
+    "nf_total_fat": 17.8,
+    "nf_saturated_fat": 7.51,
+    "nf_cholesterol": 82.45,
+    "nf_sodium": 61.2,
+    "nf_total_carbohydrate": 0,
+    "nf_dietary_fiber": 0,
+    "nf_sugars": 0,
+    "nf_protein": 20.84,
+    "nf_potassium": 263.5,
+
+    "desc":"Mutton is a popular protein source in various cuisines, including Mediterranean, Middle Eastern, Indian, and African cuisines.Mutton is a nutrient-rich meat, providing a good source of high-quality protein, vitamins (such as B vitamins including B12 and niacin), and minerals (such as iron, zinc, and selenium). However, it tends to have a higher fat content compared to other meats, which can contribute to its rich flavor and tenderness."
+  }
+ 
+   ]
+
+}
+
